@@ -2,6 +2,9 @@
 <tileset version="1.5" tiledversion="1.5.0" name="terrain_atlas" tilewidth="32" tileheight="32" tilecount="1024" columns="32">
  <image source="terrain_atlas.png" width="1024" height="1024"/>
  <tile id="169">
+  <properties>
+   <property name="collides" type="bool" value="true"/>
+  </properties>
   <objectgroup draworder="index" id="2">
    <object id="1" x="3.0547" y="0.412797" width="25.7585" height="31.5377"/>
    <object id="2" x="7.5129" y="-11.4757"/>
