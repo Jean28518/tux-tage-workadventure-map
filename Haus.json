@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Garten.json"
+                 "value":"Garten.json#haus-ausgang"
                 }],
          "type":"tilelayer",
          "visible":true,
