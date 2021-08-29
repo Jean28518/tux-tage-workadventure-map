@@ -100,7 +100,7 @@
  </layer>
  <layer id="5" name="Hauseingang" width="50" height="50" locked="1">
   <properties>
-   <property name="exitUrl" value="Haus.json"/>
+   <property name="exitUrl" value="Haus.json#entry-point"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
