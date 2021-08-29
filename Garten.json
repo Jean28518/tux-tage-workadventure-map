@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Haus.json"
+                 "value":"Haus.json#entry-point"
                 }],
          "type":"tilelayer",
          "visible":true,
