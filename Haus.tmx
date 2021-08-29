@@ -95,7 +95,7 @@
  </layer>
  <layer id="5" name="Hausausgang" width="50" height="50">
   <properties>
-   <property name="exitUrl" value="Garten.json"/>
+   <property name="exitUrl" value="Garten.json#haus-ausgang"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
