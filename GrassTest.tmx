@@ -12,6 +12,11 @@
    <objectgroup draworder="index" id="2">
     <object id="1" x="3.0547" y="0.412797" width="25.7585" height="31.5377"/>
     <object id="2" x="7.5129" y="-11.4757"/>
+    <object id="3" x="17" y="11" height="12"/>
+    <object id="4" x="-25" y="-33" width="79" height="75"/>
+    <object id="5" x="-124" y="-171"/>
+    <object id="6" x="34" y="-23"/>
+    <object id="7" x="25" y="8"/>
    </objectgroup>
   </tile>
   <tile id="366">
