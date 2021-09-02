@@ -264,8 +264,27 @@
          "source":"floortileset.tsx"
         }, 
         {
+         "columns":32,
          "firstgid":1089,
-         "source":"tux-tage.tsx"
+         "image":"tux-tage.png",
+         "imageheight":1024,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"tux-tage",
+         "spacing":0,
+         "tilecount":1024,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":1,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
