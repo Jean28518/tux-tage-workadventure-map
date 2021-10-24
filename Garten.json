@@ -759,7 +759,7 @@
         {
          "columns":25,
          "firstgid":1025,
-         "image":"tilesets\/Tilemap+Sprites.png",
+         "image":"tilesets\/tilemap_sprites.png",
          "imageheight":653,
          "imagewidth":800,
          "margin":0,
@@ -1270,7 +1270,7 @@
         {
          "columns":24,
          "firstgid":4679,
-         "image":"tilesets\/Isometric Roofs 4 - 128x128.png",
+         "image":"tilesets\/roofs.png",
          "imageheight":512,
          "imagewidth":768,
          "margin":0,
