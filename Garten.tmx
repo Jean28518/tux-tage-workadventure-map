@@ -149,7 +149,7 @@
   </tile>
  </tileset>
  <tileset firstgid="1025" name="Tilemap+Sprites" tilewidth="32" tileheight="32" tilecount="500" columns="25">
-  <image source="tilesets/Tilemap+Sprites.png" width="800" height="653"/>
+  <image source="tilesets/tilemap_sprites.png" width="800" height="653"/>
  </tileset>
  <tileset firstgid="1525" name="campfire" tilewidth="32" tileheight="32" tilecount="72" columns="18">
   <image source="tilesets/campfire.png" width="576" height="128"/>
@@ -293,7 +293,7 @@
   <image source="tilesets/windows_with_flowerboxes.png" width="64" height="96"/>
  </tileset>
  <tileset firstgid="4679" name="Isometric Roofs 4 - 128x128" tilewidth="32" tileheight="32" tilecount="384" columns="24">
-  <image source="tilesets/Isometric Roofs 4 - 128x128.png" width="768" height="512"/>
+  <image source="tilesets/roofs.png" width="768" height="512"/>
  </tileset>
  <tileset firstgid="5063" name="tux-tage" tilewidth="32" tileheight="32" tilecount="4" columns="2">
   <image source="tilesets/tux-tage.png" width="64" height="64"/>
