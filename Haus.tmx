@@ -2448,7 +2448,7 @@
  </layer>
  <layer id="5" name="hausgang" width="50" height="50">
   <properties>
-   <property name="exitUrl" value="https://play.workadventure.tux-tage.de/_/global/jean28518.github.io/tux-tage-workadventure-map/Garten.json"/>
+   <property name="exitUrl" value="Garten.json"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
