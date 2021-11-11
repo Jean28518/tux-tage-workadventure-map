@@ -1100,7 +1100,7 @@
  </layer>
  <layer id="31" name="hauseingang" width="150" height="150">
   <properties>
-   <property name="exitSceneUrl" value="Haus.json"/>
+   <property name="exitSceneUrl" value="https://play.workadventure.tux-tage.de/_/global/jean28518.github.io/tux-tage-workadventure-map/Haus.json"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
