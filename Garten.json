@@ -78,7 +78,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventure.tux-tage.de\/_\/global\/jean28518.github.io\/tux-tage-workadventure-map\/Haus.json"
+                 "value":"Haus.json"
                 }],
          "type":"tilelayer",
          "visible":true,
