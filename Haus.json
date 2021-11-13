@@ -911,7 +911,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/framagit.org\/kate\/framaworld\/-\/blob\/main\/framaworld.json"
+                 "value":"https:\/\/play.workadventure.tux-tage.de\/_\/undefined\/kate.frama.io\/wa-testing\/framaworld.json "
                 }],
          "type":"tilelayer",
          "visible":true,
