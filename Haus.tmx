@@ -3275,7 +3275,6 @@
  </layer>
  <layer id="71" name="Spielbereich_exit1" width="50" height="50">
   <properties>
-   <property name="audioLoop" value="/music/bar.mp3"/>
    <property name="exitUrl" value="https://framagit.org/kate/framaworld/-/blob/main/framaworld.json"/>
   </properties>
   <data encoding="csv">
