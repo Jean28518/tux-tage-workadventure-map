@@ -3275,7 +3275,7 @@
  </layer>
  <layer id="71" name="Spielbereich_exit1" width="50" height="50">
   <properties>
-   <property name="exitUrl" value="https://framagit.org/kate/framaworld/-/blob/main/framaworld.json"/>
+   <property name="exitUrl" value="https://play.workadventure.tux-tage.de/_/undefined/kate.frama.io/wa-testing/framaworld.json "/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
