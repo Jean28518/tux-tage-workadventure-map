@@ -909,11 +909,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"audioLoop",
-                 "type":"string",
-                 "value":"\/music\/bar.mp3"
-                }, 
-                {
                  "name":"exitUrl",
                  "type":"string",
                  "value":"https:\/\/framagit.org\/kate\/framaworld\/-\/blob\/main\/framaworld.json"
